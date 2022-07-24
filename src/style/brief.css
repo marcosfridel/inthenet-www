@@ -1,0 +1,13 @@
+#root {
+    height: 100vh;
+    padding-left: '0px';
+    padding-right: '0px';
+    /* overflow-x: 'hidden', */
+}
+.container-fluid {
+    padding-left: inherit;
+    padding-right: inherit;
+}
+/* .form-control {
+    background-color: black;
+} */
